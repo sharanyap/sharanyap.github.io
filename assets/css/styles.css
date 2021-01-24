@@ -229,8 +229,6 @@ img{
     padding-top: 1rem;
     width: 220px;
     height: 220px;
-    background-color: var(--first-color);
-    border-radius: 50%;
     overflow: hidden;
 }
 .about__img img{
