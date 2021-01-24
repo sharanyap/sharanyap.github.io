@@ -232,6 +232,7 @@ img{
     overflow: hidden;
 }
 .about__img img{
+    width:400px;
    
 }
 .about__subtitle{
