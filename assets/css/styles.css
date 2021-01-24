@@ -227,13 +227,11 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 1rem;
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 220px;
     overflow: hidden;
-    border-radius:50%;
 }
 .about__img img{
-    width:400px;
    
 }
 .about__subtitle{
@@ -438,7 +436,7 @@ img{
     }
     .about__img{
         width: 200px;
-        height: 200px;
+        height: 220px;
     }
     .about__img img{
         width: 200px;
