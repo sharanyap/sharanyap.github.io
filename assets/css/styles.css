@@ -10,7 +10,7 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #c5977c;
+    --first-color: #c9b5e4;
     --white-color: #FAFAFF;
     --dark-color: #2A3B47;
     --text-color: #697477;
@@ -189,10 +189,11 @@ img{
     overflow: hidden;
 }
 .home__container{
+
     
-    /*height: calc(100vh - var(--header-height) - 50vh);
+    height: calc(100vh - var(--header-height) - 50vh);
     
-    */
+
 }
 .home__title{
     margin-top: 20%;
